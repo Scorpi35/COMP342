@@ -1,4 +1,4 @@
-# Ellispe drawing using midpoint mhod
+# Implementation of translation
 import pygame
 from OpenGL.GL import *
 from numpy import matmul
