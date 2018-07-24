@@ -5,9 +5,7 @@ from numpy import matmul
 import numpy as np
 
 
-# Function for ellispe
-
-
+# Function for translation
 def translation():
     point_surface = pygame.Surface((1, 1))
     point_surface.fill((255, 0, 0))
