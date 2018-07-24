@@ -10,11 +10,7 @@ def point(x1, y1, x2, y2, Sx, Sy):
     point_surface = pygame.Surface((1, 1))
     point_surface.fill((255, 0, 0))
     gameDisplay.blit(point_surface, (100, 100))
-
-    #Scaling factor
-    Sx = 3
-    Sy = 3
-
+    
     #Scaling matrix
     S = [[Sx, 0, 0], [0, Sy, 0], [0, 0, 1]]
 
