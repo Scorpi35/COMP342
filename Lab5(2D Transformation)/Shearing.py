@@ -1,4 +1,4 @@
-#Scaling
+#Shearing
 import pygame
 from OpenGL.GL import *
 import time
