@@ -1,4 +1,4 @@
-#Scaling
+#Rotation
 import pygame
 from OpenGL.GL import *
 import time
